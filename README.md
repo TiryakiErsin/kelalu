@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kelalu
-- 👀 I’m interested Software Engineering
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Game developers
 - 📫 How to reach me 3D gaming with unity
